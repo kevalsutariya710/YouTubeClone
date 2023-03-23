@@ -1,6 +1,6 @@
 # Getting Started 
 
-### `npm i`
+### `npm install`
 
 This command install all the dependency to your System
 
