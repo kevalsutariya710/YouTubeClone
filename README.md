@@ -4,10 +4,6 @@
 
 This command install all the dependency to your System
 
-## Available Scripts
-
-In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.\
